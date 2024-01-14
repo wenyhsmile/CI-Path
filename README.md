@@ -71,8 +71,7 @@ We implement the `RGCN` model on heterogeneous graph in `model.py`. A pre-traine
 python eval_explanations.py --dataset_name=synthetic --emb_dim=64 --hidden_dim=64 --out_dim=64 --eval_explainer_names=pagelink
 ```
 
-**Note**: As exact reproducibility is not guaranteed with PyTorch even with identical random seed
-(See https://pytorch.org/docs/stable/notes/randomness.html), the results may be slightly off from the paper.
+
 
 
 
