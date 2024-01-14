@@ -88,22 +88,7 @@ Top three paths (<span style="color:green">green arrows</span>) selected by PaGE
 
 Please refer to `plotting_example.ipynb` for an example of generating plots like this.
 
-## Cite
 
-Please cite our paper if you find this code is useful. Thank you.
-
-```
-@inproceedings{zhang2023page,
-  title={PaGE-Link: Path-based graph neural network explanation for heterogeneous link prediction},
-  author={Zhang, Shichang and Zhang, Jiani and Song, Xiang and Adeshina, Soji and Zheng, Da and Faloutsos, Christos and Sun, Yizhou},
-  booktitle={Proceedings of the web conference 2023},
-  year={2023}
-}
-```
-
-## Contact Us
-
-Please open an issue or contact shichang@cs.ucla.edu if you have any questions.
 
 
 <!-- #endregion -->
