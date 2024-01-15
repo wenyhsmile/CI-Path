@@ -1,5 +1,3 @@
-<!-- #region -->
-# <ins>P</ins>ath <ins>E</ins>xplanation for <ins>Link</ins> Prediction in Heterogeneous  <ins>G</ins>raph Neural Network   
 
 
 
